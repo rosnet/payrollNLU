@@ -1,0 +1,37 @@
+{
+"document 1" : "update_employee_detail",
+"document 2" : "investement_details_take_note",
+"document 3" : "salary_revision",
+        
+"document 4" : "attendance_correction",
+"document 5" : "updates_and_information",
+       
+"document 6" : "updates_and_information_meal_allowance",
+"document 7" : "updates_and_information_bonus",
+       
+"document 8" : "updates_and_information_FFS",
+       
+"document 9" : "updates_and_information_LOP",
+  
+"document 10" : "FFS_details_take_note",
+"document 11" : "correction_employee",
+  
+"document 12" : "bad_intent",
+
+"document 13" : "stop_pay_take_note",
+
+"document 14" : "bad_intent",
+
+"document 15" : "bad_intent",
+"document 16" : "bad_intent",
+"document 17" : "F&F_take_note",
+
+"document 18" : "shortfall_recoveries_take_note",
+
+"document 19" : "car_lease_closure_take_note",
+
+"document 20" : "remove_VPF_contribution",
+
+"document 21" : "remove_variable_input"
+
+}
